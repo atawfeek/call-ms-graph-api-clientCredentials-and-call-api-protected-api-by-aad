@@ -1,3 +1,6 @@
+## Important: In addition to below original story, service app hosted on Azure calls a protected Api by AAD using client credentials.
+#### requires to create two registered apps, one for the client, and another for the Api
+
 ---
 services: active-directory
 platforms: dotnet
