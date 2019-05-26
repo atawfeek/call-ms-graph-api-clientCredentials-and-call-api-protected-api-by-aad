@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<User>
+  <Properties>    
+    <Property>displayName</Property>
+    <Property>givenName</Property>
+    <Property>surname</Property>
+    <Property>userPrincipalName</Property>
+    <Property>userType</Property>
+    <Property>jobTitle</Property>
+    <Property>accountEnabled</Property>
+    <Property>extension_c6ac9c0de361471ca23d6c614b1bb5bc_gweVfOpcoId</Property>
+    <Property>extension_c6ac9c0de361471ca23d6c614b1bb5bc_employeeID</Property>
+    <Property>extension_c6ac9c0de361471ca23d6c614b1bb5bc_gweinternalUser</Property>
+  </Properties>
+</User>
